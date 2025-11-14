@@ -75,7 +75,7 @@ var Role = []*Userinfo{
 }
 
 func Extrauser() *Userinfo {
-	var num = rand.Intn(11)
+	var num = rand.Intn(14)
 	ur := Role[num]
 	fmt.Println("抽取成功,纠缠之缘-1")
 	fmt.Println("恭喜你抽到：", ur.Name)
