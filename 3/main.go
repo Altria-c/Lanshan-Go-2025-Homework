@@ -1,9 +1,9 @@
 package main
 
 import (
-	"3/initial"
-	"3/userinfo"
 	"fmt"
+	"lansan-learning/3/initial"
+	"lansan-learning/3/userinfo"
 )
 
 func main() {

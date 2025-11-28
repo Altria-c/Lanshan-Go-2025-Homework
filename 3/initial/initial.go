@@ -1,8 +1,8 @@
 package initial
 
 import (
-	"3/userinfo"
 	"fmt"
+	"lansan-learning/3/userinfo"
 )
 
 func Menu() {
